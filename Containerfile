@@ -1,6 +1,6 @@
 # Use CentOS Stream 10 as base
 
-FROM quay.io/centos/centos:stream10  # If CentOS Stream 10 is available
+FROM centos:stream10
 
 # Set container metadata
 #LABEL maintainer="Your Name <your@email.com>"
