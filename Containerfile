@@ -1,4 +1,4 @@
-FROM centos:stream9
+FROM centos:stream10
 
 LABEL maintainer="Your Name <your@email.com>"
 LABEL description="CentOS systemd-enabled container"
